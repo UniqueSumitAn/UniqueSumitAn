@@ -9,8 +9,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=UniqueSumitAn&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=UniqueSumitAn&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=UniqueSumitAn&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+## 🟩 GitHub Contributions
+**200 Contributions in 2026**
+
+[![Sumit's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=UniqueSumitAn&theme=github-compact&hide_border=true)](https://github.com/UniqueSumitAn)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=UniqueSumitAn&icon=0&color=0)](https://visitcount.itsvg.in)
